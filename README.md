@@ -14,6 +14,7 @@
 
 | Repo | What it shows |
 |---|---|
+| [**unisync-e2e**](https://github.com/youssefmohamedymsh/unisync-e2e) | Consulting work for a pre-launch EdTech startup: a Playwright suite that turns a 214-case pilot test design into a release gate. Every test is tied to a case ID, a coverage report accounts for all 214 cases, and the password-protected PDFs and spreadsheets are opened and checked. 148 tests, 4 defects found. |
 | [**ADO-MCP-server**](https://github.com/youssefmohamedymsh/ADO-MCP-server) | An MCP server with 26 tools that lets Claude read Azure DevOps stories, write linked test cases and log bugs. TypeScript, CI. |
 | [**lms-e2e**](https://github.com/youssefmohamedymsh/lms-e2e) | A Playwright suite with request-level assertions, fault injection, a guard against silent errors, and a defect lifecycle: it found 3 bugs, tracked them, and now guards their fixes. |
 | [**lms-api**](https://github.com/youssefmohamedymsh/lms-api) | A deterministic fake backend for UI testing: isolated worlds per test, scenarios, a request journal, and CI that proves it matches the real API, 36 out of 36 requests. |
