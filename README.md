@@ -35,4 +35,4 @@
 
 Working toward **ISTQB CT-AI** and **CT-GenAI**, and building more AI-in-the-loop testing tools. Open to **QA Lead, QA Manager and AI-augmented QA** roles, remote or in the Gulf and MENA.
 
-📫 youssefmohamed.ymsh@gmail.com
+📫 youssefmohamed.ymsh@gmail.com · [LinkedIn](https://www.linkedin.com/in/youssefmohamed4/)
